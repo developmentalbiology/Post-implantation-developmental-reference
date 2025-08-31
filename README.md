@@ -37,7 +37,7 @@ The **Cross-species Reference** integrates the human and monkey reference atlase
 All three reference cell atlases are publicly available for download from the National Genomics Data Center (NGDC) under the accession number **PRJCA045416** or **OMIX011658** ([https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658)).
 
 ## Annotation Guide
-The complete annotation guide, including detailed descriptions of cell types and lineages, is available in this repository.
+An annotation guide, including detailed descriptions of the reannotated cell types and lineages, is available in this repository.
 
 ## License
 This repository is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0). Please see the LICENSE file for more details.
