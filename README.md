@@ -39,11 +39,9 @@ All three reference cell atlases are publicly available for download from the Na
 ## Loupe Browser Files
 
 To facilitate intuitive exploration of the single-cell data, we have generated **Loupe Browser files** for all three datasets:
-- `human_reference.loupe` – Human Post-implantation Embryo Cell Atlas  ([[https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://drive.google.com/file/d/1q4RjqREmvqB8ctz0_R9Lx0yOfu_MfUFA/view?usp=sharing)))
-- `monkey_reference.loupe` – Monkey Post-implantation Embryo Cell Atlas ([[**https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658**](https://drive.google.com/file/d/1WofeEY40r09PjOw9mK3I-S0hznj0MNo1/view?usp=sharing)))
-- `cross_species_reference.loupe` – Integrated Human-Monkey Cross-species Cell Atlas ([[https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://drive.google.com/file/d/1HiqOEwbLZ7iW0FoOu0UlXQ4v-w-NSyYH/view?usp=sharing)))
-
-These `.loupe` files are included inside the respective downloaded archives and allow users to explore cell clusters, gene expression, and annotations interactively.
+- `human_reference.loupe` – Human Post-implantation Embryo Cell Atlas  (https://drive.google.com/file/d/1q4RjqREmvqB8ctz0_R9Lx0yOfu_MfUFA/view?usp=drive_link)
+- `monkey_reference.loupe` – Monkey Post-implantation Embryo Cell Atlas (https://drive.google.com/file/d/1WofeEY40r09PjOw9mK3I-S0hznj0MNo1/view?usp=drive_link)
+- `cross_species_reference.loupe` – Integrated Human-Monkey Cross-species Cell Atlas (https://drive.google.com/file/d/1HiqOEwbLZ7iW0FoOu0UlXQ4v-w-NSyYH/view?usp=drive_link)
 
 ### How to Open Loupe Files
 
@@ -52,11 +50,11 @@ These `.loupe` files are included inside the respective downloaded archives and 
    🔗 [https://www.10xgenomics.com/support/software/loupe-browser](https://www.10xgenomics.com/support/software/loupe-browser)  
    Compatible with Windows, macOS, and Linux.
 
-2. **Extract and Locate the `.loupe` File**:  
-   After downloading and extracting the `.tar.gz` archive (e.g., using 7-Zip or `tar -xzf`), navigate to the folder and locate the `.loupe` file.
+2. **Download and Locate the `.loupe` File**:  
+   After downloading files, navigate to the folder and locate the `.cloupe` file.
 
 3. **Open the File in Loupe**:  
-   Launch Loupe Browser, click **"Open"**, and select the `.loupe` file. The viewer will load precomputed clusters, cell type annotations, and gene expression data.
+   Launch Loupe Browser, click **"Open"**, and select the `.cloupe` file. The viewer will load precomputed clusters, cell type annotations, and gene expression data.
 
 4. **Explore the Data**:  
    Use the interface to:
