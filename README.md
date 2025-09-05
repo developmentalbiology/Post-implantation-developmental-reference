@@ -36,6 +36,37 @@ The **Cross-species Reference** integrates the human and monkey reference atlase
 ## Data Availability
 All three reference cell atlases are publicly available for download from the National Genomics Data Center (NGDC) under the accession number **PRJCA045416** or **OMIX011658** ([https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658)).
 
+## Loupe Browser Files
+
+To facilitate intuitive exploration of the single-cell data, we have generated **Loupe Browser files** for all three datasets:
+- `human_reference.loupe` – Human Post-implantation Embryo Cell Atlas  ([[https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://drive.google.com/file/d/1q4RjqREmvqB8ctz0_R9Lx0yOfu_MfUFA/view?usp=sharing)))
+- `monkey_reference.loupe` – Monkey Post-implantation Embryo Cell Atlas ([[**https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658**](https://drive.google.com/file/d/1WofeEY40r09PjOw9mK3I-S0hznj0MNo1/view?usp=sharing)))
+- `cross_species_reference.loupe` – Integrated Human-Monkey Cross-species Cell Atlas ([[https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://ngdc.cncb.ac.cn/omix/release/OMIX011658](https://drive.google.com/file/d/1HiqOEwbLZ7iW0FoOu0UlXQ4v-w-NSyYH/view?usp=sharing)))
+
+These `.loupe` files are included inside the respective downloaded archives and allow users to explore cell clusters, gene expression, and annotations interactively.
+
+### How to Open Loupe Files
+
+1. **Download 10x Genomics Loupe Browser**:  
+   Visit the official website and install the free application:  
+   🔗 [https://www.10xgenomics.com/support/software/loupe-browser](https://www.10xgenomics.com/support/software/loupe-browser)  
+   Compatible with Windows, macOS, and Linux.
+
+2. **Extract and Locate the `.loupe` File**:  
+   After downloading and extracting the `.tar.gz` archive (e.g., using 7-Zip or `tar -xzf`), navigate to the folder and locate the `.loupe` file.
+
+3. **Open the File in Loupe**:  
+   Launch Loupe Browser, click **"Open"**, and select the `.loupe` file. The viewer will load precomputed clusters, cell type annotations, and gene expression data.
+
+4. **Explore the Data**:  
+   Use the interface to:
+   - Browse annotated cell types and lineages
+   - Search and visualize gene expression
+   - Compare clusters across species or stages
+   - Zoom into subpopulations and identify marker genes
+
+These Loupe files provide a user-friendly, no-code way to explore the transcriptional landscape of primate post-implantation development.
+
 ## Annotation Guide
 An annotation guide, including detailed descriptions of the reannotated cell types and lineages, is available in this repository.
 
